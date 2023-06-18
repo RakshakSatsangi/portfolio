@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/RakshakSatsangi/static/css/main.3e5c0b5c.css",
-    "main.js": "/RakshakSatsangi/static/js/main.85bb1790.js",
-    "static/js/787.1ed0c42c.chunk.js": "/RakshakSatsangi/static/js/787.1ed0c42c.chunk.js",
-    "static/media/ProfileImage.jpg": "/RakshakSatsangi/static/media/ProfileImage.2d56ea45dd487fc9a024.jpg",
-    "static/media/Avatar.png": "/RakshakSatsangi/static/media/Avatar.21c78191fd6b000286cc.png",
-    "index.html": "/RakshakSatsangi/index.html",
-    "main.3e5c0b5c.css.map": "/RakshakSatsangi/static/css/main.3e5c0b5c.css.map",
-    "main.85bb1790.js.map": "/RakshakSatsangi/static/js/main.85bb1790.js.map",
-    "787.1ed0c42c.chunk.js.map": "/RakshakSatsangi/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.3e5c0b5c.css",
+    "main.js": "/static/js/main.7ecd8fc0.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/ProfileImage.jpg": "/static/media/ProfileImage.2d56ea45dd487fc9a024.jpg",
+    "static/media/Avatar.png": "/static/media/Avatar.21c78191fd6b000286cc.png",
+    "index.html": "/index.html",
+    "main.3e5c0b5c.css.map": "/static/css/main.3e5c0b5c.css.map",
+    "main.7ecd8fc0.js.map": "/static/js/main.7ecd8fc0.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e5c0b5c.css",
-    "static/js/main.85bb1790.js"
+    "static/js/main.7ecd8fc0.js"
   ]
 }
