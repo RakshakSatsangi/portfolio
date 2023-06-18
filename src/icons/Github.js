@@ -1,7 +1,6 @@
 import React from 'react';
 import { mdiGithub } from '@mdi/js';
 import Icon from '@mdi/react';
-import './Icon.css';
 
 const Github = () => {
     return (
