@@ -1,3 +1,7 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,4 +14,20 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.component-container {
+  display: flex;
+  justify-content: center;
+}
+
+.custom-row {
+  /* display: flex; */
+  width: auto;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+
+.custom-col {
+  margin: 20px;
 }
